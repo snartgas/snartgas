@@ -1,0 +1,68 @@
+body{
+  background: #52FFB8
+}
+
+
+.sukuna{
+  margin: -8px;
+  height: 50%;
+  width: 101%;
+  
+}
+.snart{
+  font-size: 500%;
+  padding: 10px;
+  text-align: center;
+  border: 10px solid;
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  margin: 12%;
+  text-shadow: 8px 5px 5px #00FEFF;
+  box-shadow: 3px 3px 3px #00FEFF;
+  
+}
+.p{
+  font-weight: lighter;
+  font-size: 300%;
+  text-align: center;
+  border: 3px solid;
+  
+  border-radius: 20px
+}
+.div{
+  text-align: center;
+}
+.img{
+  height: 100%;
+  width: 101%;
+  
+}
+
+.skills{
+  text-align: center;
+  font-size: 500%;
+}
+.p2{
+  font-size: 350%;
+  text-align: center;
+}
+.code{
+  
+  height: 45%;
+  width: 101%;
+}
+.h1{
+  font-size: 500%;
+  text-align: center;
+}
+.Nous{
+  border: 2px solid;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 300%;
+  
+}
+.dec{
+  font-size: 350%;
+  text-align: center;
+}
